@@ -1,1 +1,34 @@
 /* start your css here */
+.container{ 
+    border: solid ;
+    height: 7rem;
+    width: 86rem;
+    background-color: rgb(7, 2, 31);
+}
+li {
+    padding-bottom: 2rem;
+    font-size: 2rem;
+    display: inline-block;
+    padding-right: 4rem;
+    list-style: none;
+    margin-top: 1.3rem;
+    
+}
+a {
+    color: rgb(169, 160, 211);;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    transition: all 0.4s ease 0s;
+}
+img {
+    height: 2.2rem;
+    width: 2.2rem;
+    background-color:rgb(7, 2, 31);
+    color: white;
+}
+button {
+    background-color: rgb(7, 2, 31);
+    border: solid rgb(7, 2, 31);;
+}
