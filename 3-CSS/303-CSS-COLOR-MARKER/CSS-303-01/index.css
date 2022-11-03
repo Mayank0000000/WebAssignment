@@ -1,1 +1,39 @@
-/* start your css here */
+h1 {
+   
+    text-align: center;
+}
+.marker {
+    background-color: red;
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+}
+.one {
+    background: linear-gradient(180deg, rgb(122,72,14) , rgb(245, 11, 187), rgb(162,27,27));
+    box-shadow: 0 0 10px red;
+}
+.two {
+    background: linear-gradient(180deg, rgb(3, 26, 4) , rgb(155, 233, 135), rgb(3, 87, 14));
+    box-shadow: 0 0 10px green;
+}
+.three {
+background: linear-gradient(180deg, rgb(4, 26, 71) , rgb(138, 169, 226), rgb(14, 70, 155));
+box-shadow: 0 0 10px blue;
+}
+.container {
+    background-color: rgb(255,255,255);
+    padding: 10px 0;
+}
+.sleeve {
+width: 110px;
+height: 25px;
+background-color: rgba(255, 255, 255, 0.5);
+border-left: double black 10px;
+}
+.cap {
+    width: 60px;
+    height: 25px;
+}
+.cap, .sleeve {
+    display: inline-block;
+}
