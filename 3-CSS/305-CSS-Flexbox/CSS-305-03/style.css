@@ -1,1 +1,108 @@
 /* start your styling here  */
+.container {
+    margin: 10rem 15rem;
+    
+}
+.one {
+    position: absolute;
+
+   
+    border: solid black;
+    height: 40rem;
+    width: 30rem;
+    background-color:rgba(253, 166, 4, 0.884);
+    border: white;
+   border-start-start-radius: 15px;
+   border-bottom-left-radius: 15px;
+}
+.two {
+    position: absolute;
+    display: flex;
+    
+    margin-left: 30rem;
+    border: solid black;
+    height: 40rem;
+    width: 30rem; 
+    border: white;
+    
+}
+.three {
+    position: absolute;
+    display: flex;
+    
+    margin-left: 60rem;
+    border: solid black;
+    height: 40rem;
+    width: 30rem;
+    border: white;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.first {
+    position: absolute;
+    border: solid black;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 100%;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    margin-top: 3rem;
+    background-color:  rgb(77, 42, 10);
+    
+}
+img {
+    
+  position: absolute;
+    width: 6rem;
+    height: 8rem;
+    margin-left: 4rem;
+    margin-top: 0rem;
+   
+    
+}
+.text {
+    margin-top: 15rem;
+    margin-left: 3rem;
+    color: white;
+}
+.button1 {
+    margin-top: 5rem;
+    width: 12rem;
+    height: 5rem;
+    border: white;
+    border-radius: 50px;
+    font-size: 1.7rem;
+    color: rgba(253, 166, 4, 0.884);
+}
+.button2 {
+    margin-top: 5rem;
+    width: 12rem;
+    height: 5rem;
+    border: white;
+    border-radius: 40px;
+    font-size: 1.7rem;
+    color: rgb(22, 26, 224);
+}
+.button3 {
+    margin-top: 5rem;
+    width: 12rem;
+    height: 5rem;
+    border: white;
+    border-radius: 40px;
+    font-size: 1.7rem;
+    color: rgba(13, 231, 13, 0.897);
+}
+.two {
+    background-color:   rgb(22, 26, 224);
+    
+}
+.second {
+    background-color:  rgb(22, 36, 66);
+    
+}
+.three{
+    background-color: rgba(13, 231, 13, 0.897);
+}
+.third {
+    background-color: rgba(7, 43, 7, 0.897);
+}
