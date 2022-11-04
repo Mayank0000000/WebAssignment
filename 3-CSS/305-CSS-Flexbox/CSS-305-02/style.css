@@ -1,1 +1,54 @@
 /* start your styling here  */
+.container {
+    border: solid rgb(226, 86, 110); 
+    border-radius: 15px;
+    height: 29rem;
+    width: 30rem;
+    margin: 20px auto;
+    background-color: rgb(226, 86, 110);
+    margin-top: 10rem;
+}
+.main {
+  margin-top: 3rem;
+   
+}
+button {
+    border-radius: 10px;
+    height: 3rem;
+    width: 5rem;
+    margin-left: 2rem;
+    padding-bottom: 3rem;
+    margin-top: 1rem;
+    background-color: rgb(7, 7, 63);
+    color: white;
+    font-size: 2rem;
+    
+}
+.x {
+    background-color: rgb(241, 241, 41);
+    color: black;
+}
+.y {
+    background-color: rgb(0, 255, 200);
+    color: black;
+}
+input {
+    position: absolute;
+    background-color: rgb(7, 7, 63);
+    color: white;
+    font-size: 2rem; 
+    height: 3rem;
+    width: 18.9rem; 
+    margin-top: 1rem;
+    margin-left: 2.2rem;
+    border-radius: 10px;
+}
+.start {
+    border: solid black; 
+    border-radius: 15px;
+    height: 50rem;
+    width:50rem;
+    margin: 20px auto;
+    background-color: rgb(90, 80, 179);
+    
+}
