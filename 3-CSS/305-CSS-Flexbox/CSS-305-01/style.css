@@ -1,1 +1,8 @@
 /* start your styling here  */
+img {
+    height: 15rem;
+    width:15rem;
+    padding: 1rem;
+    border-radius: 30px;
+    display: flexbox;
+}
